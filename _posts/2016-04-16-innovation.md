@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We have an intuitive and rigorous understanding of what is required for innovation success and take accountability not just for measuring how good an idea is, but for helping our clients improve their idea over time.\_ And whilst a successful end launch makes our spines tingle, we are just as passionate about making sure innovations that are not ‘right’ or not ‘ready’ don’t go to market."
-datePublished: '2016-04-16T14:26:34.295Z'
-dateModified: '2016-04-16T13:45:24.031Z'
+datePublished: '2016-04-16T14:33:11.321Z'
+dateModified: '2016-04-16T14:26:42.822Z'
 title: INNOVATION
 author: []
 sourcePath: _posts/2016-04-16-innovation.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # INNOVATION
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/124d3d1d-71d4-4e8f-895a-e5f8a840a5bf.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb050e34053d8a104a5486dd343b46076ef85e39.png)
 
 We have an intuitive and rigorous understanding of what is required for innovation success and take accountability not just for measuring how good an idea is, but for helping our clients improve their idea over time.  And whilst a successful end launch makes our spines tingle, we are just as passionate about making sure innovations that are not 'right' or not 'ready' don't go to market.
 
