@@ -1,7 +1,7 @@
 name: sparkbeta
 favicon: null
-layout_spectrum: 0.9339549564756453
-typography_spectrum: 0.030220561660826206
+layout_spectrum: 0
+typography_spectrum: 0.37261
 cta:
   domain: null
   bucket: null
