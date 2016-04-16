@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "We have an intuitive and rigorous understanding of what is required for innovation success and take accountability not just for measuring how good an idea is, but for helping our clients improve their idea over time.\_ And whilst a successful end launch makes our spines tingle, we are just as passionate about making sure innovations that are not ‘right’ or not ‘ready’ don’t go to market."
-datePublished: '2016-04-16T15:38:55.247Z'
-dateModified: '2016-04-16T15:35:53.671Z'
+datePublished: '2016-04-16T16:13:38.515Z'
+dateModified: '2016-04-16T16:12:25.900Z'
 title: INNOVATION
 author: []
 sourcePath: _posts/2016-04-16-innovation.md
