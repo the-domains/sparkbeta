@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sparkbeta]]></title>
         <description><![CDATA[sparkbeta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sparkbeta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 13:25:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 13:25:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sparkbeta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[getting in touch:]]></title>
+            <description><![CDATA[<article><h1>getting in touch:</h1><p>undefined</p></article>]]></description>
+            <link>https://thegrid.ai/sparkbeta/getting-in-touch/index.html</link>
+            <guid isPermaLink="false">cf334141-1754-4654-b4b4-6ca0edc51466</guid>
+            <pubDate>Sat, 16 Apr 2016 13:25:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Regardless of how Spark engages on a given research or insight requirement, our end goal is always the same:]]></title>
             <description><![CDATA[<article><h1>Regardless of how Spark engages on a given research or insight requirement, our end goal is always the same:</h1><p>The Spark Ethos</p></article>]]></description>
-            <link>undefinedthe-spark-ethos/index.html</link>
+            <link>https://thegrid.ai/sparkbeta/the-spark-ethos/index.html</link>
             <guid isPermaLink="false">cce8b331-e4f3-4dc3-93ad-16d89c18b064</guid>
             <pubDate>Sat, 16 Apr 2016 13:25:16 GMT</pubDate>
         </item>
