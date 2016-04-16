@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We aim to\_provide that\_vital spark of insight that ignites better marketing and commercial decision making in our clients’ businesses. \_"
-datePublished: '2016-04-16T15:39:48.791Z'
-dateModified: '2016-04-16T15:39:45.349Z'
+datePublished: '2016-04-16T15:51:47.151Z'
+dateModified: '2016-04-16T15:49:22.497Z'
 title: "Spark Research is a strategic market research consultancy, founded by Cristín\_Mann in 2014, after 17 years in consumer research and consulting.\_"
 author: []
 sourcePath: _posts/2016-04-16-spark-research-is-a-strategic-market-research-consultancy-f.md
@@ -22,8 +22,6 @@ url: spark-research-is-a-strategic-market-research-consultancy-f/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a9e8ccce280ace90887f56b94d31cab033062f4.png)
-
 # Spark Research is a strategic market research consultancy, founded by Cristín Mann in 2014, after 17 years in consumer research and consulting. 
 
 We aim to provide that vital spark of insight that ignites better marketing and commercial decision making in our clients' businesses.  
