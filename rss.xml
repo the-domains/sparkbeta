@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sparkbeta]]></title>
+        <description><![CDATA[sparkbeta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 13:25:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Regardless of how Spark engages on a given research or insight requirement, our end goal is always the same:]]></title>
+            <description><![CDATA[<article><h1>Regardless of how Spark engages on a given research or insight requirement, our end goal is always the same:</h1><p>The Spark Ethos</p></article>]]></description>
+            <link>undefinedthe-spark-ethos/index.html</link>
+            <guid isPermaLink="false">cce8b331-e4f3-4dc3-93ad-16d89c18b064</guid>
+            <pubDate>Sat, 16 Apr 2016 13:25:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
