@@ -28,6 +28,9 @@ navigation:
   - name: BRAND
     id: 604e0fff-9f6a-421b-a850-f39aa6131d08
     type: content
+  - name: CATEGORY
+    id: 2fca3643-6f9b-4019-b2d1-d6bf3d379b8f
+    type: content
 favicon: null
 title: 'join the dots, create a spark'
 purpose: []
