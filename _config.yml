@@ -31,6 +31,9 @@ navigation:
   - name: CATEGORY
     id: 2fca3643-6f9b-4019-b2d1-d6bf3d379b8f
     type: content
+  - name: INNOVATION
+    id: 57f87cd2-e299-4cfb-ad1f-3dcc11cafa08
+    type: content
 favicon: null
 title: 'join the dots, create a spark'
 purpose: []
