@@ -1,20 +1,4 @@
-name: spark research
-favicon: null
-layout_spectrum: 0.11459
 typography_spectrum: 0.40301
-title: 'spark research - join the dots, create a spark'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6875
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.11459
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: spark research
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'join the dots, create a spark'
 purpose: []
