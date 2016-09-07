@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[spark research - join the dots, create a spark]]></title>
-        <description><![CDATA[spark research - join the dots, create a spark]]></description>
+        <title><![CDATA[join the dots, create a spark]]></title>
+        <description><![CDATA[join the dots, create a spark]]></description>
         <link>https://thegrid.ai/sparkbeta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 18:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 07:00:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sparkbeta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/sparkbeta/category/index.html</link>
             <guid isPermaLink="false">2fca3643-6f9b-4019-b2d1-d6bf3d379b8f</guid>
             <pubDate>Sat, 16 Apr 2016 17:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec307a3f-d78e-49e0-b79d-4877e5b654f5.jpg" alt="" title="" />]]></description>
-            <link>https://thegrid.ai/sparkbeta/c4f7fcae-c999-4144-aedf-1fd0ac3fb86b/index.html</link>
-            <guid isPermaLink="false">c4f7fcae-c999-4144-aedf-1fd0ac3fb86b</guid>
-            <pubDate>Sat, 16 Apr 2016 16:39:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[INNOVATION]]></title>
@@ -71,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[getting in touch:]]></title>
-            <description><![CDATA[<article><h1>getting in touch:</h1><p>undefined</p></article>]]></description>
+            <description><![CDATA[<h1>getting in touch:</h1>]]></description>
             <link>https://thegrid.ai/sparkbeta/getting-in-touch/index.html</link>
             <guid isPermaLink="false">cf334141-1754-4654-b4b4-6ca0edc51466</guid>
             <pubDate>Sat, 16 Apr 2016 13:25:17 GMT</pubDate>
