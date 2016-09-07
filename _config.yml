@@ -1,4 +1,6 @@
 typography_spectrum: 0.40301
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ADD7F6'
@@ -19,6 +21,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ef8dab-3e66-4dc7-ba73-19b655a817e8.png
 name: spark research
 cta:
   domain: null
